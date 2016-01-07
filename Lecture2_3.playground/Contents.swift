@@ -3,7 +3,7 @@
 import UIKit
 
 /**
-*  @author Valeriy Popov, Rambler&Co, 16-01-07 22:01:03
+*  @author complexityclass
 *
 *  @brief Finding fixed point of a function
 *         f(x) = x
