@@ -1,5 +1,5 @@
 # FP-Swift
-This is the code from [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) course  written in `Swift`!
+The contents of [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) course  written in `Swift`.
 
 ##Table of contents
 * [Lection 2.2 Currying](https://github.com/complexityclass/FP-Swift/blob/master/Lecture2_2.playground/Contents.swift)
