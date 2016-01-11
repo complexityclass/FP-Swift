@@ -4,5 +4,7 @@ The contents of [Functional Programming Principles in Scala](https://www.courser
 ##Table of contents
 * [Lection 2.2 Currying](https://github.com/complexityclass/FP-Swift/blob/master/Lecture2_2.playground/Contents.swift)
 * [Lection 2.3 Finding Fixed Points](https://github.com/complexityclass/FP-Swift/blob/master/Lecture2_3.playground/Contents.swift)
+* Lection 2.4 Scala syntax summary
+* [Lection 2.5 Functions and Data](https://github.com/complexityclass/FP-Swift/blob/master/Lecture2_5.playground/Contents.swift)
 
 
